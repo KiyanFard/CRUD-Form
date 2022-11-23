@@ -1,0 +1,50 @@
+body{
+    background-color:#2b7a78;
+}
+
+header{
+    background-color: #182628;
+    text-align: center;
+    font-size: 2.5rem;
+    color:#4285f4;
+    height: 100px;
+    width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    border: #005689 solid 2px;
+    text-align: center;
+    margin-top: 2rem;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    border: #005689 solid 2px;
+    text-align: center;
+    background-color:#17252a;
+    color:#def2f1;
+}
+
+.form-label{
+    text-align: right;
+}
+
+.btn-class{
+    background-color: #3aafa9;
+}
+
+.button-class{
+    background-color:#29648a;
+    font: italic;
+}
+
+.afzoodan{
+    background-color: #4ef037;
+}
